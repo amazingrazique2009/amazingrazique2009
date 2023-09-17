@@ -1,12 +1,10 @@
-- 👋 Hi, I’m Razique
-- 👀 I’m interested in Cloud.
-- 🌱 I’m currently learning DevOps.
-- 💞️ I’m looking to collaborate on Github.
+- 👋I am Razique, a Cloud Engineer from 🇮🇳   Certified Microsoft Azure Administrator |AWS Cloud Practitioner & Strong information technology professional with a Bachelor’s degree focused in computer science & engineering. ® I am a passionate tech enthusiast who loves working in different popular technological fields like storage, Aws, Azure, DevOps, Networking, IT SM tools, Docker, Kubernetes etc.  🎯
+  
 - 📫 How to reach me:
   
-Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-razique-487303155/) 👨🏻‍💻
+  ▪Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-razique-487303155/) 👨🏻‍💻
 
-Shoot Me an [Email](mailto:raziqueacet2009@gmail.com) 💌
+  ▪Shoot Me an [Email](mailto:raziqueacet2009@gmail.com) 💌
 
 <!---
 amazingrazique2009/amazingrazique2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
