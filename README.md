@@ -1,4 +1,4 @@
-- 👋I am Razique, a Cloud Engineer from 🇮🇳   Certified Microsoft Azure Administrator |AWS Cloud Practitioner & Strong information technology professional with a Bachelor’s degree focused in computer science & engineering. ® I am a passionate tech enthusiast who loves working in different popular technological fields like storage, Aws, Azure, DevOps, Networking, IT SM tools, Docker, Kubernetes etc.  🎯
+- 👋I am Razique, a Cloud Engineer from 🇮🇳 I am a passionate tech enthusiast who loves working in different popular technological fields like storage, Aws, Azure, DevOps, Networking, IT SM tools, Docker, Kubernetes etc.  🎯
   
 - 📫 How to reach me:
   
