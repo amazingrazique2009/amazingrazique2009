@@ -2,8 +2,10 @@
 - 👀 I’m interested in Cloud.
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on Github.
-- 📫 How to reach me
--Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-razique-487303155/) 👨🏻‍💻
+- 📫 How to reach me:
+  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-razique-487303155/) 👨🏻‍💻
+
 Shoot Me an [Email](mailto:raziqueacet2009@gmail.com) 💌
 
 <!---
