@@ -4,8 +4,6 @@
   
   ▪Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-razique-487303155/) 👨🏻‍💻
 
-  ▪Connect with me on {Telegram]@razique7406🎯
-
   ▪Shoot Me an [Email](mailto:raziqueacet2009@gmail.com) 💌
 
   
