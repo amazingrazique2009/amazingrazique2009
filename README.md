@@ -1,4 +1,4 @@
-- 👋I am Razique, a Cloud Engineer from 🇮🇳 I am a passionate tech enthusiast who loves working in different popular technological fields like storage, Aws, Azure, DevOps, Networking, IT SM tools, Docker, Kubernetes etc.  🎯
+- 👋I am Razique, a Cloud Engineer from 🇮🇳 I am a passionate tech enthusiast & eager to learn new technologies DevOps, Networking, Docker, Kubernetes etc.🎯
   
 - 📫 How to reach me:
   
