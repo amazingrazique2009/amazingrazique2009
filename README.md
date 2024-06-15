@@ -1,4 +1,4 @@
-- 👋I am Razique, a Cloud Infrastructure Engineer from 🇮🇳 I am a passionate tech enthusiast & eager to learn new technologies DevOps, Networking, Docker, Kubernetes etc.🎯
+- 👋I am Razique, a Cloud Engineer from 🇮🇳 I am a passionate tech enthusiast & eager to learn new technologies DevOps, Networking, Docker, Kubernetes etc.🎯
   
 - 📫 How to reach me:
   
